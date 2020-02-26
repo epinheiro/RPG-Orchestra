@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 97300c855f2686249a77d163c9e37dac
+timeCreated: 1527202800
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Axis
+    100002: D20
+    100004: //RootNode
+    100006: Face01
+    100008: Face02
+    100010: Face03
+    100012: Face04
+    100014: Face05
+    100016: Face06
+    100018: Face07
+    100020: Face08
+    100022: Face09
+    100024: Face10
+    100026: Face11
+    100028: Face12
+    100030: Face13
+    100032: Face14
+    100034: Face15
+    100036: Face16
+    100038: Face17
+    100040: Face18
+    100042: Face19
+    100044: Face20
+    400000: Axis
+    400002: D20
+    400004: //RootNode
+    400006: Face01
+    400008: Face02
+    400010: Face03
+    400012: Face04
+    400014: Face05
+    400016: Face06
+    400018: Face07
+    400020: Face08
+    400022: Face09
+    400024: Face10
+    400026: Face11
+    400028: Face12
+    400030: Face13
+    400032: Face14
+    400034: Face15
+    400036: Face16
+    400038: Face17
+    400040: Face18
+    400042: Face19
+    400044: Face20
+    2300000: Face01
+    2300002: Face02
+    2300004: Face03
+    2300006: Face04
+    2300008: Face05
+    2300010: Face06
+    2300012: Face07
+    2300014: Face08
+    2300016: Face09
+    2300018: Face10
+    2300020: Face11
+    2300022: Face12
+    2300024: Face13
+    2300026: Face14
+    2300028: Face15
+    2300030: Face16
+    2300032: Face17
+    2300034: Face18
+    2300036: Face19
+    2300038: Face20
+    3300000: Face01
+    3300002: Face02
+    3300004: Face03
+    3300006: Face04
+    3300008: Face05
+    3300010: Face06
+    3300012: Face07
+    3300014: Face08
+    3300016: Face09
+    3300018: Face10
+    3300020: Face11
+    3300022: Face12
+    3300024: Face13
+    3300026: Face14
+    3300028: Face15
+    3300030: Face16
+    3300032: Face17
+    3300034: Face18
+    3300036: Face19
+    3300038: Face20
+    4300000: Face01
+    4300002: Face02
+    4300004: Face03
+    4300006: Face04
+    4300008: Face05
+    4300010: Face06
+    4300012: Face07
+    4300014: Face08
+    4300016: Face09
+    4300018: Face10
+    4300020: Face11
+    4300022: Face12
+    4300024: Face13
+    4300026: Face14
+    4300028: Face15
+    4300030: Face16
+    4300032: Face17
+    4300034: Face18
+    4300036: Face19
+    4300038: Face20
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
